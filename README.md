@@ -18,11 +18,11 @@ https://github.com/harshilgujarati/Db_miner/assets/131511029/354a2685-c061-4d3a-
 
 <img align="left" src="https://github.com/harshilgujarati/Db_miner/assets/131511029/65977e2c-f9bb-457f-a954-b600093f0532" width="220px">
 <img align="left" src="https://github.com/harshilgujarati/Db_miner/assets/131511029/e4edbc0a-b49a-483f-b262-fa68424e7415" width="220px">
-<img align="left" src="https://github.com/harshilgujarati/Db_miner/assets/131511029/8414a42e-354f-4ea6-9c02-52961d44d134" width="220px">
+<img src="https://github.com/harshilgujarati/Db_miner/assets/131511029/8414a42e-354f-4ea6-9c02-52961d44d134" width="220px">
 
 <img align="left" src="https://github.com/harshilgujarati/Db_miner/assets/131511029/62b14d4c-09eb-4a40-9bb6-c3ec328a8206" width="220px">
 <img align="left" src="https://github.com/harshilgujarati/Db_miner/assets/131511029/7ce6cd03-2c6a-4423-b627-e477fbefba51" width="220px">
-<img align="left" src="https://github.com/harshilgujarati/Db_miner/assets/131511029/10d1e5fc-6136-4c4c-b1b3-ab470cd7d385" width="220px">
+<img src="https://github.com/harshilgujarati/Db_miner/assets/131511029/10d1e5fc-6136-4c4c-b1b3-ab470cd7d385" width="220px">
 
 
 <img align="left" src="https://github.com/harshilgujarati/Db_miner/assets/131511029/5f925c19-ad68-40c4-8c79-d1251e580997" width="220px">
