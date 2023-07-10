@@ -1,0 +1,906 @@
+[
+  {
+    "quotes_category": "Advice",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "author": "Unknown",
+        "quote": "Don't be afraid to give up the good to go for the great."
+      },
+      {
+        "id": 2,
+        "author": "John D. Rockefeller",
+        "quote": "Don't be afraid to give up the good to go for the great."
+      },
+      {
+        "id": 3,
+        "author": "Les Brown",
+        "quote": "You don't have to be great to get started, but you have to get started to be great."
+      },
+      {
+        "id": 4,
+        "author": "Albert Einstein",
+        "quote": "Try not to become a person of success, but rather try to become a person of value."
+      },
+      {
+        "id": 5,
+        "author": "Ralph Waldo Emerson",
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+      },
+      {
+        "id": 6,
+        "author": "Steve Jobs",
+        "quote": "Stay hungry, stay foolish."
+      },
+      {
+        "id": 7,
+        "author": "Tony Robbins",
+        "quote": "Success is doing what you want, when you want, where you want, with whom you want, as much as you want."
+      },
+      {
+        "id": 8,
+        "author": "Eleanor Roosevelt",
+        "quote": "The future belongs to those who believe in the beauty of their dreams."
+      },
+      {
+        "id": 9,
+        "author": "Maya Angelou",
+        "quote": "If you don't like something, change it. If you can't change it, change your attitude."
+      },
+      {
+        "id": 10,
+        "author": "Jim Rohn",
+        "quote": "Success is not to be pursued; it is to be attracted by the person you become."
+      },
+      {
+        "id": 11,
+        "author": "Napoleon Hill",
+        "quote": "Don't wait. The time will never be just right."
+      },
+      {
+        "id": 12,
+        "author": "Oprah Winfrey",
+        "quote": "The biggest adventure you can take is to live the life of your dreams."
+      },
+      {
+        "id": 13,
+        "author": "Confucius",
+        "quote": "It does not matter how slowly you go as long as you do not stop."
+      },
+      {
+        "id": 14,
+        "author": "Walt Disney",
+        "quote": "All our dreams can come true if we have the courage to pursue them."
+      },
+      {
+        "id": 15,
+        "author": "Rumi",
+        "quote": "The wound is the place where the Light enters you."
+      },
+      {
+        "id": 16,
+        "author": "Mark Twain",
+        "quote": "The secret of getting ahead is getting started."
+      },
+      {
+        "id": 17,
+        "author": "Thomas Edison",
+        "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up."
+      },
+      {
+        "id": 18,
+        "author": "Leo Tolstoy",
+        "quote": "If you want to be happy, be."
+      },
+      {
+        "id": 19,
+        "author": "Winston Churchill",
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+      },
+      {
+        "id": 20,
+        "author": "William Shakespeare",
+        "quote": "This above all: to thine own self be true."
+      },
+      {
+        "id": 21,
+        "author": "Maya Angelou",
+        "quote": "You may encounter many defeats, but you must not be defeated."
+      },
+      {
+        "id": 22,
+        "author": "Abraham Lincoln",
+        "quote": "In the end, it's not the years in your life that count, it's the life in your years."
+      },
+      {
+        "id": 23,
+        "author": "Eleanor Roosevelt",
+        "quote": "Do one thing every day that scares you."
+      },
+      {
+        "id": 24,
+        "author": "Helen Keller",
+        "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+      },
+      {
+        "id": 25,
+        "author": "Martin Luther King Jr.",
+        "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+      },
+      {
+        "id": 26,
+        "author": "Buddha",
+        "quote": "The mind is everything. What you think you become."
+      },
+      {
+        "id": 27,
+        "author": "C.S. Lewis",
+        "quote": "Hardships often prepare ordinary people for an extraordinary destiny."
+      },
+      {
+        "id": 28,
+        "author": "Ralph Waldo Emerson",
+        "quote": "The only person you are destined to become is the person you decide to be."
+      },
+      {
+        "id": 29,
+        "author": "Muhammad Ali",
+        "quote": "Don't count the days; make the days count."
+      },
+      {
+        "id": 30,
+        "author": "Dalai Lama",
+        "quote": "Happiness is not something ready-made. It comes from your own actions."
+      },
+      {
+        "id": 31,
+        "author": "Coco Chanel",
+        "quote": "In order to be irreplaceable one must always be different."
+      },
+      {
+        "id": 32,
+        "author": "Dr. Seuss",
+        "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."
+      },
+      {
+        "id": 33,
+        "author": "Henry Ford",
+        "quote": "Whether you think you can, or you think you can't -- you're right."
+      },
+      {
+        "id": 34,
+        "author": "Steve Jobs",
+        "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
+      },
+      {
+        "id": 35,
+        "author": "Helen Keller",
+        "quote": "The only thing worse than being blind is having sight but no vision."
+      },
+      {
+        "id": 36,
+        "author": "Eleanor Roosevelt",
+        "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people."
+      },
+      {
+        "id": 37,
+        "author": "J.K. Rowling",
+        "quote": "It is our choices that show what we truly are, far more than our abilities."
+      },
+      {
+        "id": 38,
+        "author": "Nelson Mandela",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+      },
+      {
+        "id": 39,
+        "author": "Confucius",
+        "quote": "Choose a job you love, and you will never have to work a day in your life."
+      },
+      {
+        "id": 40,
+        "author": "Thomas Edison",
+        "quote": "I have not failed. I've just found 10,000 ways that won't work."
+      },
+      {
+        "id": 41,
+        "author": "Coco Chanel",
+        "quote": "Success is most often achieved by those who don't know that failure is inevitable."
+      },
+      {
+        "id": 42,
+        "author": "Walt Disney",
+        "quote": "The way to get started is to quit talking and begin doing."
+      },
+      {
+        "id": 43,
+        "author": "Oscar Wilde",
+        "quote": "Be yourself; everyone else is already taken."
+      },
+      {
+        "id": 44,
+        "author": "Maya Angelou",
+        "quote": "If you have only one smile in you, give it to the people you love."
+      },
+      {
+        "id": 45,
+        "author": "Leo Tolstoy",
+        "quote": "Everyone thinks of changing the world, but no one thinks of changing himself."
+      },
+      {
+        "id": 46,
+        "author": "Elon Musk",
+        "quote": "When something is important enough, you do it even if the odds are not in your favor."
+      },
+      {
+        "id": 47,
+        "author": "Albert Einstein",
+        "quote": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+      },
+      {
+        "id": 48,
+        "author": "Winston Churchill",
+        "quote": "Success consists of going from failure to failure without loss of enthusiasm."
+      },
+      {
+        "id": 49,
+        "author": "Jim Rohn",
+        "quote": "You are the average of the five people you spend the most time with."
+      },
+      {
+        "id": 50,
+        "author": "Stephen Covey",
+        "quote": "The key is not to prioritize what's on your schedule, but to schedule your priorities."
+      }
+    ]
+  },
+  {
+    "quotes_category": "Love",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Love is not about how many days, months, or years you've been together. It's all about how much you love each other every day.",
+        "author": "Unknown"
+      },
+      {
+        "id": 2,
+        "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+        "author": "Dr. Seuss"
+      },
+      {
+        "id": 3,
+        "quote": "The best thing to hold onto in life is each other.",
+        "author": "Audrey Hepburn"
+      },
+      {
+        "id": 4,
+        "quote": "Love is composed of a single soul inhabiting two bodies.",
+        "author": "Aristotle"
+      },
+      {
+        "id": 5,
+        "quote": "Love doesn't make the world go round. Love is what makes the ride worthwhile.",
+        "author": "Franklin P. Jones"
+      },
+      {
+        "id": 6,
+        "quote": "Being deeply loved by someone gives you strength while loving someone deeply gives you courage.",
+        "author": "Lao Tzu"
+      },
+      {
+        "id": 7,
+        "quote": "Love is the greatest refreshment in life.",
+        "author": "Pablo Picasso"
+      },
+      {
+        "id": 8,
+        "quote": "In the end, the love you take is equal to the love you make.",
+        "author": "Paul McCartney"
+      },
+      {
+        "id": 9,
+        "quote": "Love is a promise. Love is a souvenir. Once given, never forgotten. Never let it disappear.",
+        "author": "John Lennon"
+      },
+      {
+        "id": 10,
+        "quote": "The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.",
+        "author": "Helen Keller"
+      },
+      {
+        "id": 11,
+        "quote": "Love is like the wind, you can't see it but you can feel it.",
+        "author": "Nicholas Sparks"
+      },
+      {
+        "id": 12,
+        "quote": "Love is when the other person's happiness is more important than your own.",
+        "author": "H. Jackson Brown Jr."
+      },
+      {
+        "id": 13,
+        "quote": "Love is a game that two can play and both can win.",
+        "author": "Eva Gabor"
+      },
+      {
+        "id": 14,
+        "quote": "You don't marry someone you can live with – you marry the person you cannot live without.",
+        "author": "Unknown"
+      },
+      {
+        "id": 15,
+        "quote": "The best love is the kind that awakens the soul; that makes us reach for more, that plants the fire in our hearts and brings peace to our minds.",
+        "author": "Nicholas Sparks"
+      },
+      {
+        "id": 16,
+        "quote": "Love is a friendship set to music.",
+        "author": "Joseph Campbell"
+      },
+      {
+        "id": 17,
+        "quote": "Love is that condition in which the happiness of another person is essential to your own.",
+        "author": "Robert A. Heinlein"
+      },
+      {
+        "id": 18,
+        "quote": "The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds.",
+        "author": "Nicholas Sparks"
+      },
+      {
+        "id": 19,
+        "quote": "The art of love is largely the art of persistence.",
+        "author": "Albert Ellis"
+      },
+      {
+        "id": 20,
+        "quote": "Love is the master key that opens the gates of happiness.",
+        "author": "Oliver Wendell Holmes"
+      },
+      {
+        "id": 21,
+        "quote": "Love is a canvas furnished by nature and embroidered by imagination.",
+        "author": "Voltaire"
+      },
+      {
+        "id": 22,
+        "quote": "Love is not what you say. Love is what you do.",
+        "author": "Unknown"
+      },
+      {
+        "id": 23,
+        "quote": "Love is the magician that pulls a man out of his own hat.",
+        "author": "Ben Hecht"
+      },
+      {
+        "id": 24,
+        "quote": "True love stories never have endings.",
+        "author": "Richard Bach"
+      },
+      {
+        "id": 25,
+        "quote": "The giving of love is an education in itself.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "id": 26,
+        "quote": "Love is the only force capable of transforming an enemy into a friend.",
+        "author": "Martin Luther King Jr."
+      },
+      {
+        "id": 27,
+        "quote": "The more one judges, the less one loves.",
+        "author": "Honoré de Balzac"
+      },
+      {
+        "id": 28,
+        "quote": "The best proof of love is trust.",
+        "author": "Joyce Brothers"
+      },
+      {
+        "id": 29,
+        "quote": "Love is the joy of the good, the wonder of the wise, the amazement of the gods.",
+        "author": "Plato"
+      },
+      {
+        "id": 30,
+        "quote": "The only thing we never get enough of is love; and the only thing we never give enough of is love.",
+        "author": "Henry Miller"
+      },
+      {
+        "id": 31,
+        "quote": "A true lover always feels in debt to the one he loves.",
+        "author": "Ralph W. Sockman"
+      },
+      {
+        "id": 32,
+        "quote": "Love is the greatest gift that one generation can leave to another.",
+        "author": "Richard Garnett"
+      },
+      {
+        "id": 33,
+        "quote": "Where there is love there is life.",
+        "author": "Mahatma Gandhi"
+      },
+      {
+        "id": 34,
+        "quote": "Love is the bridge between two hearts.",
+        "author": "Unknown"
+      },
+      {
+        "id": 35,
+        "quote": "Love is the only gold.",
+        "author": "Alfred Lord Tennyson"
+      },
+      {
+        "id": 36,
+        "quote": "Love is the greatest thing in this world.",
+        "author": "Unknown"
+      },
+      {
+        "id": 37,
+        "quote": "Love is like a virus. It can happen to anybody at any time.",
+        "author": "Maya Angelou"
+      },
+      {
+        "id": 38,
+        "quote": "Love is the beauty of the soul.",
+        "author": "Saint Augustine"
+      },
+      {
+        "id": 39,
+        "quote": "Love is a smoke made with the fume of sighs.",
+        "author": "William Shakespeare"
+      },
+      {
+        "id": 40,
+        "quote": "Love is the master key that opens the gates of happiness.",
+        "author": "Oliver Wendell Holmes"
+      },
+      {
+        "id": 41,
+        "quote": "Love is the enchanted dawn of every heart.",
+        "author": "Lamartine"
+      },
+      {
+        "id": 42,
+        "quote": "Love is the silent saying and saying of a single name.",
+        "author": "Mignon McLaughlin"
+      },
+      {
+        "id": 43,
+        "quote": "Love is a fruit in season at all times and within the reach of every hand.",
+        "author": "Mother Teresa"
+      },
+      {
+        "id": 44,
+        "quote": "Love is the joy of the good, the wonder of the wise, the amazement of the gods.",
+        "author": "Plato"
+      },
+      {
+        "id": 45,
+        "quote": "Love is an irresistible desire to be irresistibly desired.",
+        "author": "Robert Frost"
+      },
+      {
+        "id": 46,
+        "quote": "Love is a better teacher than duty.",
+        "author": "Albert Einstein"
+      },
+      {
+        "id": 47,
+        "quote": "Love is the beauty of the soul.",
+        "author": "Saint Augustine"
+      },
+      {
+        "id": 48,
+        "quote": "Love is a fire. But whether it is going to warm your heart or burn down your house, you can never tell.",
+        "author": "Joan Crawford"
+      },
+      {
+        "id": 49,
+        "quote": "Love is the flower you've got to let grow.",
+        "author": "John Lennon"
+      },
+      {
+        "id": 50,
+        "quote": "Love is the greatest refreshment in life.",
+        "author": "Pablo Picasso"
+      }
+    ]
+  },
+  {
+    "quotes_category": "Be Yourself",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Be yourself : everyone else is already taken.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 2,
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 3,
+        "quote": "Don't compromise yourself - you're all you have.",
+        "author": "John Grisham"
+      },
+      {
+        "id": 4,
+        "quote": "Be who you are and say what you feel because those who mind don't matter, and those who matter don't mind.",
+        "author": "Dr. Seuss"
+      },
+      {
+        "id": 5,
+        "quote": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+        "author": "Judy Garland"
+      },
+      {
+        "id": 6,
+        "quote": "Be yourself; everyone else is taken.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 8,
+        "quote": "Just be yourself, there is no one better.",
+        "author": "Taylor Swift"
+      },
+      {
+        "id": 9,
+        "quote": "Authenticity is the daily practice of letting go of who we think we're supposed to be and embracing who we are.",
+        "author": "Brené Brown"
+      },
+      {
+        "id": 10,
+        "quote": "You were born an original, don't die a copy.",
+        "author": "John Mason"
+      }
+    ]
+  },
+  {
+    "quotes_category": "Art",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Be yourself : everyone else is already taken.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 2,
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 3,
+        "quote": "Don't compromise yourself - you're all you have.",
+        "author": "John Grisham"
+      },
+      {
+        "id": 4,
+        "quote": "Be who you are and say what you feel because those who mind don't matter, and those who matter don't mind.",
+        "author": "Dr. Seuss"
+      },
+      {
+        "id": 5,
+        "quote": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+        "author": "Judy Garland"
+      },
+      {
+        "id": 6,
+        "quote": "Be yourself; everyone else is taken.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 8,
+        "quote": "Just be yourself, there is no one better.",
+        "author": "Taylor Swift"
+      },
+      {
+        "id": 9,
+        "quote": "Authenticity is the daily practice of letting go of who we think we're supposed to be and embracing who we are.",
+        "author": "Brené Brown"
+      },
+      {
+        "id": 10,
+        "quote": "You were born an original, don't die a copy.",
+        "author": "John Mason"
+      }
+    ]
+  },
+  {
+    "quotes_category": "Dream",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Be yourself : everyone else is already taken.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 2,
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 3,
+        "quote": "Don't compromise yourself - you're all you have.",
+        "author": "John Grisham"
+      },
+      {
+        "id": 4,
+        "quote": "Be who you are and say what you feel because those who mind don't matter, and those who matter don't mind.",
+        "author": "Dr. Seuss"
+      },
+      {
+        "id": 5,
+        "quote": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+        "author": "Judy Garland"
+      },
+      {
+        "id": 6,
+        "quote": "Be yourself; everyone else is taken.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 8,
+        "quote": "Just be yourself, there is no one better.",
+        "author": "Taylor Swift"
+      },
+      {
+        "id": 9,
+        "quote": "Authenticity is the daily practice of letting go of who we think we're supposed to be and embracing who we are.",
+        "author": "Brené Brown"
+      },
+      {
+        "id": 10,
+        "quote": "You were born an original, don't die a copy.",
+        "author": "John Mason"
+      }
+    ]
+  },
+  {
+    "quotes_category": "Attitude",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Be yourself : everyone else is already taken.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 2,
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 3,
+        "quote": "Don't compromise yourself - you're all you have.",
+        "author": "John Grisham"
+      },
+      {
+        "id": 4,
+        "quote": "Be who you are and say what you feel because those who mind don't matter, and those who matter don't mind.",
+        "author": "Dr. Seuss"
+      },
+      {
+        "id": 5,
+        "quote": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+        "author": "Judy Garland"
+      },
+      {
+        "id": 6,
+        "quote": "Be yourself; everyone else is taken.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 8,
+        "quote": "Just be yourself, there is no one better.",
+        "author": "Taylor Swift"
+      },
+      {
+        "id": 9,
+        "quote": "Authenticity is the daily practice of letting go of who we think we're supposed to be and embracing who we are.",
+        "author": "Brené Brown"
+      },
+      {
+        "id": 10,
+        "quote": "You were born an original, don't die a copy.",
+        "author": "John Mason"
+      }
+    ]
+  },
+  {
+    "quotes_category": "Business",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Be yourself : everyone else is already taken.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 2,
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 3,
+        "quote": "Don't compromise yourself - you're all you have.",
+        "author": "John Grisham"
+      },
+      {
+        "id": 4,
+        "quote": "Be who you are and say what you feel because those who mind don't matter, and those who matter don't mind.",
+        "author": "Dr. Seuss"
+      },
+      {
+        "id": 5,
+        "quote": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+        "author": "Judy Garland"
+      },
+      {
+        "id": 6,
+        "quote": "Be yourself; everyone else is taken.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 8,
+        "quote": "Just be yourself, there is no one better.",
+        "author": "Taylor Swift"
+      },
+      {
+        "id": 9,
+        "quote": "Authenticity is the daily practice of letting go of who we think we're supposed to be and embracing who we are.",
+        "author": "Brené Brown"
+      },
+      {
+        "id": 10,
+        "quote": "You were born an original, don't die a copy.",
+        "author": "John Mason"
+      }
+    ]
+  },
+  {
+    "quotes_category": "Learning",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Be yourself : everyone else is already taken.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 2,
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 3,
+        "quote": "Don't compromise yourself - you're all you have.",
+        "author": "John Grisham"
+      },
+      {
+        "id": 4,
+        "quote": "Be who you are and say what you feel because those who mind don't matter, and those who matter don't mind.",
+        "author": "Dr. Seuss"
+      },
+      {
+        "id": 5,
+        "quote": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+        "author": "Judy Garland"
+      },
+      {
+        "id": 6,
+        "quote": "Be yourself; everyone else is taken.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 8,
+        "quote": "Just be yourself, there is no one better.",
+        "author": "Taylor Swift"
+      },
+      {
+        "id": 9,
+        "quote": "Authenticity is the daily practice of letting go of who we think we're supposed to be and embracing who we are.",
+        "author": "Brené Brown"
+      },
+      {
+        "id": 10,
+        "quote": "You were born an original, don't die a copy.",
+        "author": "John Mason"
+      }
+    ]
+  },
+  {
+    "quotes_category": "Funny",
+    "quotes_image": "je link hoy te",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "id": 2,
+        "quote": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama"
+      },
+      {
+        "id": 3,
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost"
+      },
+      {
+        "id": 4,
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius"
+      },
+      {
+        "id": 5,
+        "quote": "The biggest adventure you can take is to live the life of your dreams.",
+        "author": "Oprah Winfrey"
+      },
+      {
+        "id": 6,
+        "quote": "Life is a succession of lessons which must be lived to be understood.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 7,
+        "quote": "The good life is one inspired by love and guided by knowledge.",
+        "author": "Bertrand Russell"
+      },
+      {
+        "id": 8,
+        "quote": "Life is either a daring adventure or nothing at all.",
+        "author": "Helen Keller"
+      },
+      {
+        "id": 9,
+        "quote": "Life is 10% what happens to me and 90% of how I react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "id": 10,
+        "quote": "Life isn't about finding yourself. It's about creating yourself.",
+        "author": "George Bernard Shaw"
+      }
+    ]
+  }
+]
